@@ -14,7 +14,9 @@
 }
 
 /* Фон эмодзи */
-.bodyWrapper-3G0FZZ,
+.bodyWrapper-3G0FZZ {
+	background: hsla(0,5%,0%,.5);
+}
 .navList-2UtuhC {
     background: hsla(0,5%,0%,.5);
 }
