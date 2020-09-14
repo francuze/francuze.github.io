@@ -69,6 +69,7 @@
 		#app-mount .iconSpacing-3JkGQO .wrapper-232cHJ {background-color: var(--colour1)}
 
 	/*Voice*/
+	
 		#app-mount .wrapperConnectedVoice-2mvQJY .content-20Aix8,
 		#app-mount .contentLockedVoice-1gx-SP:hover {
 			background-color: var(--colour2); 
@@ -82,8 +83,6 @@
 
 		#app-mount .container-1UB9sr {background-color: rgba(0,0,0,0.50); border: 0;}
 		#app-mount .buttonDisconnect-3W_SJc {background-color: var(--colour1-active);}
-
-		#app-mount .avatarSpeaking-1wJCNq {box-shadow:0 0 0 2px var(--colour1);}
 		#app-mount .voiceUser-vT8g1p {
 			padding-right: 5px; 
 			border: 1px solid transparent; 
