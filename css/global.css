@@ -12,43 +12,10 @@
 	background-position: center; 
 	background-size: cover; 
 }
+
 /* Emoji Area */
-.theme-dark .bda-dark #bda-qem button {
+.bodyWrapper-3G0FZZ  {
     background: hsla(0,5%,0%,.5);
-    border-left: 1px solid #242424;
-    box-shadow: #000 1px 0 0 0;
-}
-/* Emoji buttons hover */
-.theme-dark .bda-dark #bda-qem button:hover {
-    background-color: hsla(0,5%,0%,.3);
-}
-/* Emoji area background transparency */
-.bda-dark #bda-qem {
-    border-bottom: 1px solid #000 !important;
-    background: hsla(0,5%,0%,.3);
-}
-/* Emoji button selected */
-.bda-dark #bda-qem button.active {
-    background-color: hsla(0,5%,0%,.7);
-}
-/* Borders and etc of emoji buttons at top */
-.bda-dark #bda-qem button {
-    background: hsla(0,5%,0%,.3);
-    border-left: 1px solid #000000;
-    box-shadow: #000 1px 0 0 0;
-}
-/* Transparency of emoji page menu twitch and etc */
-.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {
-    background-color: hsla(0,5%,0%,.3);
-}
-/* Scroller part of emoji area (favorite and twitch by order)*/
-.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar, .bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track, .bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track-piece {
-    background-color: hsla(0,5%,0%,.1) !important;
-    border-color: #303030 !important;
-}
-.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar, .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track, .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track-piece, .bda-dark #pubs-container .scroller::-webkit-scrollbar, .bda-dark #pubs-container .scroller::-webkit-scrollbar-track, .bda-dark #pubs-container .scroller::-webkit-scrollbar-track-piece {
-    background-color: hsla(0,5%,0%,.1) !important;
-    border-color: #303030 !important;
 }
 /*Guilds*/
 	#app-mount .selected-nT-gM3 .wrapper-2lTRaf {background-color: var(--colour2-border)!important;}
