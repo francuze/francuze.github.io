@@ -17,8 +17,8 @@
 .contentWrapper-SvZHNd  {
 	background: hsla(0,5%,0%,.5);
 }
-.wrapper-25eVIn {
- background-image: url('https://yt3.ggpht.com/a/AGF-l78ciTazwcalAHxFTG6gmNXqL_0hh0VGOSoodg=s48-c-k-c0xffffffff-no-rj-mo');
+.wrapper-1BJsBx .da-wrapper .selected-bZ3Lue da-selected {
+ background-image: var(--background2);
 }
 /*Guilds*/
 	#app-mount .selected-nT-gM3 .wrapper-2lTRaf {background-color: var(--colour2-border)!important;}
