@@ -24,6 +24,19 @@
 	#app-mount .bar-30k2ka {
 		background-color: var(--colour1);
 	}
+	/* outer search background */
+	#app-mount .emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG {background-color: #353535
+}
+/* inner search background */
+#app-mount .emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R {background-color:#595959
+} 
+/*text colour */
+#app-mount .emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG input {color:#fff
+}
+/*place holder text colour */
+#app-mount .emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R ::-webkit-input-placeholder{color:#fff
+}
+
 
 /*Channels*/
 	#app-mount .name-3M0b8v {color: rgb(160,160,160);}
