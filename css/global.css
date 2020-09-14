@@ -17,8 +17,8 @@
 .contentWrapper-SvZHNd  {
 	background: hsla(0,5%,0%,.5);
 }
-.wrapper-25eVIn da-wrapper {
- background-image: var(--background2);
+.listItemWrapper-3X98Pc .childWrapper-anI2G9 {
+    content: var(--background2);
 }
 /*Guilds*/
 	#app-mount .selected-nT-gM3 .wrapper-2lTRaf {background-color: var(--colour2-border)!important;}
