@@ -25,18 +25,10 @@
 		background-color: var(--colour1);
 	}
 	/* outer search background */
-	#app-mount .emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG {background-color:rgba(241, 8, 8, 0.418)
+	#app-mount .theme-dark .emojiPicker-3m1S-j {
+		background-color:rgba(241, 8, 8, 0.418)
 }
 /* inner search background */
-#app-mount .emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R {background-color:rgba(241, 8, 8, 0.418)
-} 
-/*text colour */
-#app-mount .emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG input {color:rgba(241, 8, 8, 0.418)
-}
-/*place holder text colour */
-#app-mount .emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R ::-webkit-input-placeholder{
-	color:rgba(241, 8, 8, 0.418)
-}
 
 
 /*Channels*/
@@ -274,8 +266,7 @@
 		background-color: var(--colour2); 
 	}
 
-
-	#app-mount .theme-dark .emojiPicker-3m1S-j, 
+ 
 	#app-mount .theme-dark #bda-qem, 
 	#app-mount .theme-dark #bda-qem-twitch-container, 
 	#app-mount .theme-dark #bda-qem-favourite-container,
