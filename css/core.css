@@ -12,7 +12,9 @@
 	background-position: center; 
 	background-size: cover; 
 }
-
+.wrapper-2qzCYF.minimum-28Z35l {
+	background-color: rgba(255, 255, 255, 0);
+}
 /*Guilds*/
 	#app-mount .selected-nT-gM3 .wrapper-2lTRaf {background-color: var(--colour2-border)!important;}
 	#app-mount .wrapper-2lTRaf,
