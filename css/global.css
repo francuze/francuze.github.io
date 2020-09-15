@@ -12,6 +12,15 @@
 	background-position: center; 
 	background-size: cover; 
 }
+.app-2rEoOp {
+    background-color: rgba(40, 40, 40, 0.849);
+}
+.wrapper-2qzCYF.minimum-28Z35l {
+	background-color: rgba(0,0,0,0);
+}
+.wrapper-24pKcD {
+	background-color: rgba(0, 0, 0, 0.700);
+}
 .listItemWrapper-3X98Pc .childWrapper-anI2G9 {
     content: url("https://yt3.ggpht.com/a/AGF-l78ciTazwcalAHxFTG6gmNXqL_0hh0VGOSoodg=s48-c-k-c0xffffffff-no-rj-mo");
 }
@@ -39,6 +48,9 @@
 	}
 
 /*Channels*/
+.wrapper-2qzCYF.minimum-28Z35l {
+	background-color: rgba(255, 255, 255, 0);
+}
 	#app-mount .name-3M0b8v {color: rgb(160,160,160);}
 
 	#app-mount .contentUnreadText-2vNnZc .name-3M0b8v,
@@ -75,7 +87,7 @@
 	background-color: rgb(238,213,173);
 }
 .wrapper-2qzCYF {
-	background-color: rgba(40,40,40,0.4);
+	background-color: rgba(255, 255, 255, 0);
 }
 	/*
 		#app-mount .wrapperConnectedVoice-2mvQJY .content-20Aix8,
